@@ -12,14 +12,14 @@
      <td></td>
   </tr>
   <tr>
-    <td><img src="ScreenShot/1.jpg" </td>
-    <td><img src="ScreenShot/2.jpg" ></td>
-    <td><img src="ScreenShot/3.jpg" ></td>
+    <td><img src="ScreenShot/1.png" </td>
+    <td><img src="ScreenShot/2.png" ></td>
+    <td><img src="ScreenShot/3.png" ></td>
   </tr>
    
   <tr>
-    <td><img src="ScreenShot/4.jpg" </td>
-    <td><img src="ScreenShot/5.jpg" </td>
+    <td><img src="ScreenShot/4.png" </td>
+    <td><img src="ScreenShot/5.png" </td>
   </tr>
   
  </table>
